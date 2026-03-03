@@ -7,6 +7,11 @@
 
 
 ```bash
+export REGION=
+```
+
+
+```bash
 curl -LO https://raw.githubusercontent.com/AnmolGour09/App-Engine-Qwik-Start---Go/refs/heads/main/Anmol.sh
 sudo chmod +x Anmol.sh
 ./Anmol.sh
